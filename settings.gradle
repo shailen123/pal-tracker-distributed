@@ -24,3 +24,5 @@ include "integration-test"
 
 include "platform-services:eureka-server"
 include "platform-services:tracker-circuit-breaker-dashboard"
+include 'platform-services:oauth-server'
+
